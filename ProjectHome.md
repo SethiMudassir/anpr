@@ -1,0 +1,1 @@
+this project detect a plate and recognize the number then store into the database
